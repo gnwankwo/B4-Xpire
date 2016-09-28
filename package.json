@@ -1,0 +1,26 @@
+{
+  "name": "b4-xpire",
+  "version": "1.0.0",
+  "description": "Notification of soon to be expiring food items",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gnwankwo/B4-Xpire.git"
+  },
+  "author": "George Chinedu Nwankwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnwankwo/B4-Xpire/issues"
+  },
+  "homepage": "https://github.com/gnwankwo/B4-Xpire#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}
